@@ -5,7 +5,7 @@ The pax plugin manager is made for people who do not like bloat nor unnecessary 
 
 ```bash
 curl -fLosS ~/.config/nvim/lua/pax.lua --create-dirs \
-    https://raw.githubusercontent.com/daym0ns/pax/master/pax.lua
+    https://raw.githubusercontent.com/daym0ns/pax/refs/heads/main/pax.lua
 ```
 
 ## Usage
