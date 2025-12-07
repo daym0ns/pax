@@ -1,2 +1,1 @@
-# pax
-the most suckless nvim plugin manager
+# pax - the most suckless nvim plugin manager
