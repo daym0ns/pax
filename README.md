@@ -9,7 +9,7 @@ curl -fLosS ~/.config/nvim/lua/pax.lua --create-dirs \
 ```
 
 ## Usage
-
+For a single plugin:
 ```lua
 -- init.lua
 local pax = require("pax")
@@ -17,7 +17,7 @@ local pax = require("pax")
 pax.ensure('vague-theme/vague.nvim')
 ```
 
-OR
+OR for multiple plugins:
 
 ```lua
 -- init.lua
