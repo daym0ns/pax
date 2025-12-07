@@ -24,6 +24,8 @@ OR
 local pax = require("pax")
 local plugins = {
   'vague-theme/vague.nvim',
+  'nvim-mini/mini.pick',
   ...
 }
+
 pax.ensureTable(plugins)
